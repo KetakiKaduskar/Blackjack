@@ -24,6 +24,6 @@ This command, is used to create a standalone executable from a Python script.
 
 - **--add-data "package;package":**  This option allows you to add additional data files or directories to the executable. The syntax ***"source;destination"*** specifies that the file or directory at ***'source'*** should be included in the executable and placed at ***'destination'*** within the executable's directory structure. In this case, the ***'package'*** directory and its contents had to be included, and placed in the same relative location within the executable's directory structure.
 
-<br/><br/>
+<br/>
 
 **Video:** https://youtu.be/fgQepqF1R6w
