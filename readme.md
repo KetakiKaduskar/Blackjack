@@ -26,4 +26,4 @@ This command, is used to create a standalone executable from a Python script.
 
 <br/>
 
-**Video:** https://youtu.be/fgQepqF1R6w
+### Video: https://youtu.be/fgQepqF1R6w
