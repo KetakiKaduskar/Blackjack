@@ -14,7 +14,7 @@
 <br/>
 
 #### <ins>_pyinstaller --onedir --contents-directory "." app.py --add-data "package;package"_</ins>
-<br/>
+
 
 This command, is used to create a standalone executable from a Python script.
 
